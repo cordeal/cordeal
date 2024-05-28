@@ -8,13 +8,8 @@
   <img height="25" src="https://img.shields.io/github/followers/cordeal?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/cordeal?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
-<br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,css"/>
 </p>
-
-                https://t.me/cordealt
-
-<br>
 
 ![Footer](./footer.png)

@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,css"/>
 </p>
 
-https://t.me/cordealt
+                https://t.me/cordealt
 
 <br>
 

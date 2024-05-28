@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 <h1 align="center">cordeal</h1>
 <a href="https://github.com/cordeal"></a>
 
@@ -12,4 +10,4 @@
     <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,css"/>
 </p>
 
-![Footer](./footer.png)
+Telegram: `@cordealt`
